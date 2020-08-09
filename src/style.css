@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;900&display=swap');
+
+.main-wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.logo-wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+.logo-wrapper .logo {
+  width: 100px;
+  margin: 50px auto;
+}
+ 
+.mail-title {
+  font-weight: 900;
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 0 30px;
+}
+
+.mail-body {
+  background-color: #f8f8ff;
+  font-weight: 300; 
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.mail-body .link{
+  color: #6C2498;
+  font-weight: 600;
+  text-decoration: none; 
+  margin: 15px 0;
+  display: inline-block;
+}
+
+.mail-footer {
+  font-weight: 300;
+  font-size: 15px;
+  padding: 0 30px 30px;
+}
+
+.mail-footer .bold {
+  font-weight: 500;
+}
